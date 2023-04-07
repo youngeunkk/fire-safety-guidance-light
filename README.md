@@ -12,7 +12,7 @@
 * Buzzer
   
 ## 🌙주요 기능
-* 점검 버튼 클릭시 점검 중 LED 🟢 ON 
+* 점검 버튼 클릭시 점검 중 LED 🟢 ON   
 ![green](https://user-images.githubusercontent.com/101387557/230548811-23890e8a-d374-4ae2-8f40-2cf1aaee6a1d.gif))
 * 연기 감지 (LED 🟡 ON )
 ![yellow](https://user-images.githubusercontent.com/101387557/230548959-060938a8-ce04-40be-9a29-4925038814f4.gif)
